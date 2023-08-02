@@ -1,7 +1,7 @@
 package pl.globallogic.exercises;
 
 
-public class ex1 {
+public class ex1PosNegZero {
     public static void checkNumber(int number)
     {
     if(number > 0) System.out.println("positive");

@@ -1,6 +1,6 @@
 package pl.globallogic.exercises;
 
-public class ex2 {
+public class ex2SpeedConverter {
     public static long toMilesPerHour(double kilometersPerHour)
     {
         if(kilometersPerHour < 0) return -1;
